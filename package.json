@@ -1,0 +1,27 @@
+{
+  "name": "form_plugin_drex",
+  "version": "1.0.0",
+  "description": "A description of your package",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drex72/use_form"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "react",
+    "useForm"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.0",
+    "@types/react": "^18.0.27"
+  },
+  "peerDependencies": {
+    "@types/react": "^18.0.27",
+    "react": "^17.0.0"
+  },
+  "types": "index.d.ts"
+}
